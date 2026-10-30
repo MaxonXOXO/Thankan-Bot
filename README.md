@@ -5,11 +5,9 @@
 # Thankan-Bot 🎯
 
 [![GitHub Pages](https://img.shields.io/badge/Live%20Showcase-GitHub%20Pages-22c55e?style=for-the-badge&logo=githubpages&logoColor=white)](https://maxonxoxo.github.io/Thankan-Bot/)
-[![Presentation Slides](https://img.shields.io/badge/SIH%202026-Presentation%20Slides-8b5cf6?style=for-the-badge&logo=googleslides&logoColor=white)](https://maxonxoxo.github.io/Thankan-Bot/slide.html)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-MaxonXOXO%2FThankan--Bot-1e293b?style=for-the-badge&logo=github)](https://github.com/MaxonXOXO/Thankan-Bot)
 
-> 🌐 **Live Forensic Case Dossier & Web Showcase:** [https://maxonxoxo.github.io/Thankan-Bot/](https://maxonxoxo.github.io/Thankan-Bot/)  
-> 📊 **SIH 2026 Feasibility & Viability Slide Deck:** [https://maxonxoxo.github.io/Thankan-Bot/slide.html](https://maxonxoxo.github.io/Thankan-Bot/slide.html)
+> 🌐 **Live Forensic Case Dossier & Web Showcase:** [https://maxonxoxo.github.io/Thankan-Bot/](https://maxonxoxo.github.io/Thankan-Bot/)
 
 ## Basic Details
 ### Team Name: CyberLife
@@ -131,7 +129,6 @@ For Hardware:
 
 # 🌐 Live Interactive Website (GitHub Pages)
 - **Live Forensic Case File:** [https://maxonxoxo.github.io/Thankan-Bot/](https://maxonxoxo.github.io/Thankan-Bot/)
-- **SIH 2026 Presentation Slides:** [https://maxonxoxo.github.io/Thankan-Bot/slide.html](https://maxonxoxo.github.io/Thankan-Bot/slide.html)
 
 # Video Demo
 [https://drive.google.com/file/d/1OBb7Ue-YaubfuzuwmgnZghm4_YXmT3aV/view?usp=sharing](https://drive.google.com/file/d/1OBb7Ue-YaubfuzuwmgnZghm4_YXmT3aV/view?usp=sharing)
