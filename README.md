@@ -4,6 +4,12 @@
 
 # Thankan-Bot 🎯
 
+[![GitHub Pages](https://img.shields.io/badge/Live%20Showcase-GitHub%20Pages-22c55e?style=for-the-badge&logo=githubpages&logoColor=white)](https://maxonxoxo.github.io/Thankan-Bot/)
+[![Presentation Slides](https://img.shields.io/badge/SIH%202026-Presentation%20Slides-8b5cf6?style=for-the-badge&logo=googleslides&logoColor=white)](https://maxonxoxo.github.io/Thankan-Bot/slide.html)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-MaxonXOXO%2FThankan--Bot-1e293b?style=for-the-badge&logo=github)](https://github.com/MaxonXOXO/Thankan-Bot)
+
+> 🌐 **Live Forensic Case Dossier & Web Showcase:** [https://maxonxoxo.github.io/Thankan-Bot/](https://maxonxoxo.github.io/Thankan-Bot/)  
+> 📊 **SIH 2026 Feasibility & Viability Slide Deck:** [https://maxonxoxo.github.io/Thankan-Bot/slide.html](https://maxonxoxo.github.io/Thankan-Bot/slide.html)
 
 ## Basic Details
 ### Team Name: CyberLife
@@ -57,8 +63,8 @@ For Software:
 # Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yaseenpierson/Thankan-bot.git
-cd Thankan-bot
+git clone https://github.com/MaxonXOXO/Thankan-Bot.git
+cd Thankan-Bot
 ```
 
 Install required libraries in Arduino IDE via Library Manager:
@@ -121,15 +127,19 @@ For Hardware:
 
 *Final Thankan-Bot assembly with cup holder platform and animated OLED face*
 
-### Project Demo
-# Video
-[https://drive.google.com/file/d/1OBb7Ue-YaubfuzuwmgnZghm4_YXmT3aV/view?usp=sharing]
+### Project Demo & Live Showcase
+
+# 🌐 Live Interactive Website (GitHub Pages)
+- **Live Forensic Case File:** [https://maxonxoxo.github.io/Thankan-Bot/](https://maxonxoxo.github.io/Thankan-Bot/)
+- **SIH 2026 Presentation Slides:** [https://maxonxoxo.github.io/Thankan-Bot/slide.html](https://maxonxoxo.github.io/Thankan-Bot/slide.html)
+
+# Video Demo
+[https://drive.google.com/file/d/1OBb7Ue-YaubfuzuwmgnZghm4_YXmT3aV/view?usp=sharing](https://drive.google.com/file/d/1OBb7Ue-YaubfuzuwmgnZghm4_YXmT3aV/view?usp=sharing)
 *Demo video showing user reaching for water, Thankan-Bot's eyes changing from happy to panic, blasting meme audio, and speeding away*
 
-# Additional Demos
-*Documentation throughout the project*
-*All the behind the scenes videos are here!"
-https://drive.google.com/drive/folders/1rkOPIKH-pm-439sFepw7gMlXd4NHLRVs?usp=drive_link
+# Additional Demos & Archives
+*Behind-the-scenes build footage and forensic documentation:*
+[https://drive.google.com/drive/folders/1rkOPIKH-pm-439sFepw7gMlXd4NHLRVs?usp=drive_link](https://drive.google.com/drive/folders/1rkOPIKH-pm-439sFepw7gMlXd4NHLRVs?usp=drive_link)
 
 
 ## Team Contributions
